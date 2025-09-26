@@ -1,0 +1,6 @@
+transformers>=4.40.0
+sentence-transformers>=2.6.1
+language-tool-python>=2.7.1
+torch>=2.2.0
+numpy>=1.26.0
+pandas>=2.2.0
